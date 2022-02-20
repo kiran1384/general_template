@@ -1,2 +1,2 @@
 # general_template
-General templat
+General template
